@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2014 Parag Nemade <pnemade AT redhat DOT com> -->
+<component type="font">
+  <id>sil-abyssinica</id>
+  <metadata_license>CC-BY-3.0</metadata_license>
+  <name>Abyssinica SIL</name>
+  <summary>SIL Abyssinica fonts</summary>
+  <description>
+    <p>
+      SIL Abyssinica is a Unicode typeface family containing glyphs for the
+      Ethiopic script.
+    </p>
+  </description>
+  <updatecontact>pnemade_at_redhat_dot_com</updatecontact>
+  <url type="homepage">http://scripts.sil.org/AbyssinicaSIL</url>
+</component>
+
